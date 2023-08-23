@@ -6,7 +6,7 @@ import Wrapper from './Tools/Wrapper';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Wrapper>
-    Test
+    Salom
   </Wrapper>
 );
 
